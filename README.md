@@ -2,7 +2,7 @@
 
 Code and data for the computer search in
 
-> [Authors], *Cyclic (r,δ) Locally Recoverable Codes from Structured Defining Sets*, [journal, year].
+> Rabia Zengin, Suayb S. Arslan, Mehmet E. Koroglu, *Cyclic (r,δ) Locally Recoverable Codes via Defining Sets: Constructions and Optimality*, [journal, year].
 
 ## Contents
 
