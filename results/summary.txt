@@ -1,0 +1,13 @@
+parameter sets                         134244
+minimum distance known                 27978
+  by MinimumWeight                     25369
+  by the certificate d_BCH = B_H       2114
+  by the corollary                     495
+MinimumWeight did not finish           2633
+  of which N <= 60                     2111
+not computed (N > 60)                  103633
+delta_H replaced by a lower bound      3528
+optimal parameter sets (paper)         380
+  type G / type D                      220 / 160
+  with N > 60                          79
+  with m = 3                           5
